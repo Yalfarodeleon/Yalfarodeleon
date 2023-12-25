@@ -1,4 +1,13 @@
-### Hi there 👋
+# Ysidro Alfaro De Leon
+
+## 👋 Hello World!
+I'm Ysidro, a computer science Latino first-generation student at San Francisco State University currently on my last semester. I am passionate about software development, artificial intelligence, cybersecurity, and gaming. I am currently gearing up for internships and excited to apply my skills to the tesst in real-world projects. 
+
+## 🔍 What I'm Looking For
+I'm seeking internship opportunities, where I can continue to grow and contribute as a software developer, front end/back end/full stack engineer. I am curious what the world has to offer, and am interested in contributing to the world of technology.
+
+## 📚 Education
+
 
 <!--
 **Yalfarodeleon/Yalfarodeleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
