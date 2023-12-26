@@ -7,7 +7,8 @@ I'm Ysidro, a computer science Latino first-generation student at San Francisco 
 I'm seeking internship opportunities, where I can continue to grow and contribute as a software developer, front end/back end/full stack engineer. I am curious what the world has to offer, and am interested in contributing to the world of technology.
 
 ## 📚 Education
-
+- **B.Sc. in Computer Science**
+- *San Francisco State University*
 
 <!--
 **Yalfarodeleon/Yalfarodeleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
