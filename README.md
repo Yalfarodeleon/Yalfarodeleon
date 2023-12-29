@@ -9,6 +9,7 @@ I'm seeking internship opportunities, where I can continue to grow and contribut
 ## 📚 Education
 - **B.Sc. in Computer Science**
 - *San Francisco State University*
+- Expected Graduation: May, 2024
 
 <!--
 **Yalfarodeleon/Yalfarodeleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
