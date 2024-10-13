@@ -14,7 +14,6 @@ I'm seeking internship opportunities, where I can continue to grow and contribut
 - *San Francisco State University*
 - Expected Graduation: May, 2024
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yalfarodeleon)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Yalfarodeleon/Yalfarodeleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
