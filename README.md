@@ -37,11 +37,10 @@ I currently work at **Apple** (Specialist) while building my technical depth in 
 ---
 
 ### 📊 **Github Stats**
-![Ysidro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yalfarodeleon&show_icons=true&theme=radical)
+![Ysidro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yalfarodeleon&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yalfarodeleon&layout=compact&theme=radical)
 
 ---
 
 ### 📫 **Connect With Me**
-- [LinkedIn](https://www.linkedin.com/in/ysidro-alfaro-de-leon/)
-- 📧 **Email:** [Insert your email here]
+- [LinkedIn](https://www.linkedin.com/in/yalfarodeleon)
