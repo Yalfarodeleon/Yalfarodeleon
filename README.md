@@ -37,7 +37,7 @@ I currently work at **Apple** (Specialist) while building my technical depth in 
 ---
 
 ### 📊 **Github Stats**
-![Ysidro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yalfarodeleon&show_icons=true&theme=radical&count_private=true)
+![Ysidro's Stats](https://github-readme-stats.vercel.app/api?username=Yalfarodeleon&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yalfarodeleon&layout=compact&theme=radical)
 
 ---
