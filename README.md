@@ -36,9 +36,8 @@ I currently work at **Apple** (Specialist) while building my technical depth in 
 
 ---
 
-### 📊 **Github Stats**
-![Ysidro's Stats](https://github-readme-stats.vercel.app/api?username=Yalfarodeleon&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yalfarodeleon&layout=compact&theme=radical)
+### 🔥 **My Coding Streak**
+[![Ysidro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yalfarodeleon&theme=radical)](https://git.io/streak-stats)
 
 ---
 
