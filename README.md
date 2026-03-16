@@ -2,9 +2,9 @@
 
 ### Software Engineer | MSCS Student (AI/ML) @ Georgia Tech
 
-I am a First-Generation Computer Science professional with a non-traditional path. My journey took 10 years of grit—transitioning from manual labor in boatyards to earning my B.S. in Computer Science, and now pursuing my **Master's in Machine Learning at Georgia Tech**.
+I am a First-Generation Computer Science professional with a non-traditional path. My journey took many years of grit, perserverance, and a great attitude that transitioned to earning my B.S. in Computer Science, and now pursuing my **Master's in Machine Learning at Georgia Tech**.
 
-I currently work at **Apple** (Specialist) while building my technical depth in Software Engineering and Artificial Intelligence. I don't just write code; I solve problems with the resilience required to see them through.
+I currently building my technical depth in Software Engineering and Artificial Intelligence. I don't just write code; I solve problems with the resilience required to see them through.
 
 ---
 
